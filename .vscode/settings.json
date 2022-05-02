@@ -1,0 +1,5 @@
+{
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 100, IncludeBlocks: Regroup, IndentPPDirectives: BeforeHash, AllowShortFunctionsOnASingleLine: Empty, SpaceAfterCStyleCast: true, AllowShortIfStatementsOnASingleLine: Never, MaxEmptyLinesToKeep: 1, KeepEmptyLinesAtTheStartOfBlocks: false, SpacesBeforeTrailingComments: 2, AllowShortBlocksOnASingleLine: Never, AllowShortLoopsOnASingleLine: false, PointerAlignment: Right}",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}
